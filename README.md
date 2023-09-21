@@ -1,4 +1,7 @@
-### Hi there 👋
+#Hosoyu12138
+
+Hi there 👋
+just a new progammer😊
 
 <!--
 **Hosoyu12138/Hosoyu12138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
